@@ -1,0 +1,9 @@
+Open source thingverse parts used for this project.
+
+Drive gears. Only used gears and no mounting brackets
+https://www.thingiverse.com/thing:1707244
+
+Auger. Only used 2 piece auger with back plate, no mounting brackets
+https://www.thingiverse.com/thing:27854
+
+To hold auger, used homedepot and lowes(1 each) 1.5x1.5x1 PCV T fitting(primarily designed for version from lowes)
